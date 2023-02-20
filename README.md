@@ -7,7 +7,7 @@
 
 1.[✍️ Descripción del proyecto](#descripción)\
 2.[👀 Visualización de datos](#visualización)\
-3.[📈 Historia](#historia)
+3.[👄💭 Historia](#historia)
 
 ## ✍️ Descripción
 
@@ -118,7 +118,7 @@ Por último, podemos visualizar los valores promedio, máximo y mínimo de cada 
 
 </details>
 
-## 📈 Historia
+## 👄💭 Historia
 
 El leit motiv de este estudio, ha sido elaborar una visualización en la que se han presentado distintos aspectos de nuestro conjunto de datos a modo de resumen, donde el enfásis ha sido la comparativa de dichos aspectos entre generaciones.
 
