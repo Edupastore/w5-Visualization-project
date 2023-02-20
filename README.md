@@ -28,7 +28,7 @@ Las nuevas variables de las que hablamos se han calculado de la siguiente forma:
 A continuación, se muestran capturas de los gráficos que hemos generado en Power BI (el archivo con el dashboard se encuentra en el interior de este repositorio, en la carpeta denominada "dashboard). Nuestro dashboard consta de seis hojas donde se describen diferentes aspectos relacionados con los Pokémon conocidos hasta la fecha. Vamos a ver ahora, de manera sucinta, qué muestran estos gráficos:
 
 <details>
-<summary>Número de Pokémon por generación</summary>
+<summary>Número de Pokémon</summary>
 <br>
 
 ![uno](https://github.com/Edupastore/w5-Visualization-project/blob/main/images/captura_uno.jpg)
@@ -41,7 +41,7 @@ En este primer gráfico se presenta la distribución de los Pokémon que tenemos
 </details>
 
 <details>
-<summary>Número de Pokémon por generación</summary>
+<summary>Tipo principal de Pokémon</summary>
 <br>
 
 ![dos](https://github.com/Edupastore/w5-Visualization-project/blob/main/images/captura_dos.jpg)
@@ -54,7 +54,7 @@ Aquí podemos ver la distribución del tipo principal de cada Pokémon (tipo 1) 
 </details>
 
 <details>
-<summary>Número de Pokémon por generación</summary>
+<summary>Tipo secundario de Pokémon</summary>
 <br>
 
 ![tres](https://github.com/Edupastore/w5-Visualization-project/blob/main/images/captura_tres.jpg)
@@ -67,7 +67,7 @@ Aquí, tenemos lo mismo que antes, pero para el tipo secundario de cada Pokémon
 </details>
 
 <details>
-<summary>Número de Pokémon por generación</summary>
+<summary>Pokémon legendarios versus Pokémon no legendarios</summary>
 <br>
 
 ![cuatro](https://github.com/Edupastore/w5-Visualization-project/blob/main/images/captura_cuatro.jpg)
@@ -80,7 +80,7 @@ En este gráfico, el foco se ha puesto sobre la cantidad de Pokémon legendarios
 </details>
 
 <details>
-<summary>Número de Pokémon por generación</summary>
+<summary>Stats Pokémon</summary>
 <br>
 
 ![cuatro](https://github.com/Edupastore/w5-Visualization-project/blob/main/images/captura_cuatro.jpg)
@@ -93,7 +93,7 @@ En este gráfico, el foco se ha puesto sobre la cantidad de Pokémon legendarios
 </details>
 
 <details>
-<summary>Número de Pokémon por generación</summary>
+<summary>Competitivo Pokémon</summary>
 <br>
 
 ![cinco](https://github.com/Edupastore/w5-Visualization-project/blob/main/images/captura_cinco.jpg)
